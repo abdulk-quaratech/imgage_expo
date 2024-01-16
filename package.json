@@ -23,5 +23,19 @@
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@expo/cli": "^0.10.16"
-  }
+  },
+  "description": "This is sample lib for exploring how to create library and export it.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulk-quaratech/imgage_expo.git"
+  },
+  "keywords": [
+    "expo_img_picker"
+  ],
+  "author": "Abdul Raheem",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/abdulk-quaratech/imgage_expo/issues"
+  },
+  "homepage": "https://github.com/abdulk-quaratech/imgage_expo#readme"
 }
