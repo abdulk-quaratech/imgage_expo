@@ -7,7 +7,7 @@ import {
 import Constants from "expo-constants";
 import FileUpload from "./FileUpload";
 
-export default function App() {
+export default function ImagePicker() {
   
   return (
     <View style={styles.container}>
